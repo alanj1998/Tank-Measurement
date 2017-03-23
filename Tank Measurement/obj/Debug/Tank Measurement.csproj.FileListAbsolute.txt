@@ -1,0 +1,6 @@
+c:\users\mama\documents\visual studio 2015\Projects\Tank Measurement\Tank Measurement\bin\Debug\Tank Measurement.exe.config
+c:\users\mama\documents\visual studio 2015\Projects\Tank Measurement\Tank Measurement\bin\Debug\Tank Measurement.exe
+c:\users\mama\documents\visual studio 2015\Projects\Tank Measurement\Tank Measurement\bin\Debug\Tank Measurement.pdb
+c:\users\mama\documents\visual studio 2015\Projects\Tank Measurement\Tank Measurement\obj\Debug\Tank Measurement.csprojResolveAssemblyReference.cache
+c:\users\mama\documents\visual studio 2015\Projects\Tank Measurement\Tank Measurement\obj\Debug\Tank Measurement.exe
+c:\users\mama\documents\visual studio 2015\Projects\Tank Measurement\Tank Measurement\obj\Debug\Tank Measurement.pdb
